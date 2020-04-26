@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APK PROJECT</string>
+    <string name="SEND_MESSAGE">SEND</string>
+    <string name="RECEIVE_MESSAGE">RECEIVE</string>
+</resources>
